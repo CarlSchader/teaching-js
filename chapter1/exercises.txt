@@ -1,0 +1,5 @@
+1. Download and install node and write a Hello World! program.
+
+2. Write a Hello World! program for browser.
+
+3. (harder) Change example 1-1 from the book (the program that prints the percentages for each character) to be percentages for each word.
